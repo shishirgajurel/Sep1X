@@ -60,10 +60,4 @@ public class CustomerList
         return customers.equals(that.customers);
     }
 
-
-
-
-    
-
-
 }
